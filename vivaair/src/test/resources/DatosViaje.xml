@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <tablaViaje>
+    <Informacionvuelos>
+      <VueloIdaYRegreso>Medellín - Bogotá
+FC8022
+30-Aug-18
+13:53 - 14:49
+Bogotá - Medellín
+FC8065
+29-Oct-18
+12:51 - 13:55</VueloIdaYRegreso>
+    </Informacionvuelos>
+    <Tasas>
+      <TasasAereoportuarias>Tarifa VivaMax
+COP 619.830
+Total Tasas e impuestos
+COP 62.400
+Total sobrecargos
+COP 32.000
+Total IVA
+COP 123.848</TasasAereoportuarias>
+    </Tasas>
+    <Total>
+      <PrecioTotal>Total
+COP 838.078</PrecioTotal>
+    </Total>
+  </tablaViaje>
+</xml>
+

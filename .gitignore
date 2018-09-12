@@ -1,0 +1,18 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.scannerwork/
+.metadata/
+# Sonar
+.sonarqube/
+
+
+.sonarlint/
+# Maven
+log/
+target/
+bin/
+
+
+.recommenders/
